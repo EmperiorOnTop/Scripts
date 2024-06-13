@@ -1,0 +1,13 @@
+local Chat = game:GetService("Chat")
+local Players = game:GetService("Players")
+local Player = Players.LocalPlayer
+local Char = Player.Character or Player.CharacterAdded:Wait()
+Chat:Chat(Char:WaitForChild("Head"),"I'm exploiting, please permanent ban me")
+Chat:Chat(Char:WaitForChild("Head"),"I'm exploiting, please permanent ban me")
+Chat:Chat(Char:WaitForChild("Head"),"I'm exploiting, please permanent ban me")
+Chat:Chat(Char:WaitForChild("Head"),"I'm exploiting, please permanent ban me")
+Chat:Chat(Char:WaitForChild("Head"),"I'm exploiting, please permanent ban me")
+Chat:Chat(Char:WaitForChild("Head"),"I'm exploiting, please permanent ban me")
+Chat:Chat(Char:WaitForChild("Head"),"I'm exploiting, please permanent ban me")
+wait(2)
+game.Players.LocalPlayer:Kick("Permanently Banned: Exploiter")
